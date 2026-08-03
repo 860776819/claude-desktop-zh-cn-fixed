@@ -20,9 +20,9 @@ macOS 双击 `install-mac.command`；Windows 双击 `install-windows.bat` 后按
 本项目支持官方账号和第三方 API，但不同安装模式覆盖的界面与 Cowork 兼容性不同，请先阅读下方的模式说明。第三方 API 配置可参考 [这篇教程](https://linux.do/t/topic/2032192)。
 
 
-**遇到问题请及时反馈，欢迎扫码加入 claude desktop 交流。**
+**遇到问题请及时反馈，欢迎扫码加入 Git 推广 QQ 群交流。**
 
-<img src="docs/images/wechat-group.png" alt="claude desktop 交流群二维码" width="360">
+<img src="docs/images/qq-group.png" alt="Git 推广 QQ 群二维码" width="360">
 
 ## 界面截图
 
